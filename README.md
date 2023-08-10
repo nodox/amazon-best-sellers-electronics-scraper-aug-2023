@@ -172,7 +172,7 @@ I'm Steven Natera, an software engineer in love with all things web scraping and
 
 Contact me on Twitter [@stevennatera](https://twitter.com/stevennatera) if you want to say hello.
 
-# Web Scraping Course
+# Web Scraping For Beginners Course
 
 The art of web scraping takes years to master. But if you need data today, practicing for years is out of the question. The good news is I've created a short course to help you learn the essentials to web scraping so you can get your data fast without spending so much money or without wasting your precious time.
 
